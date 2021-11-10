@@ -1,45 +1,23 @@
 ---
 
-- title: HPCA
-  hindex: 21
-  year: 2021
-  id: hpca21
-  link: https://hpca-conf.org/2021/
-  deadline: '2020-07-31 23:59:00'
-  timezone: UTC-7
-  date: Feb 27 - Mar 3, 2021
-  place: Seoul, South Korea
-  sub: CA
-  
-- title: ASPLOS
-  hindex: 23
-  year: 2021
-  id: asplos21
-  link: https://asplos-conference.org
-  deadline: '2020-08-21 23:59:00'
-  timezone: UTC-7
-  date: April x - April y, 2021
-  place: Detroit, Michigan
+- title: OSDI
+  year: 2022
+  id: osdi22
+  link: https://www.usenix.org/conference/osdi22
+  deadline: '2021-12-14 10:59:00'
+  abstract_deadline: '2021-12-07 10:59:00'
+  timezone: UTC
+  date: Jul 11 - Jul 13, 2021
+  place: Carlsbad, CA, USA
   sub: CA
 
-- title: CGO 
-  hindex: 22
-  year: 2021
-  id: cgo21
-  link: https://conf.researchr.org/home/cgo-2021
-  deadline: '2020-09-01 23:59:00'
-  timezone: UTC-7
-  date: Feb 27 - Mar 3, 2021
-  place: Seoul, South Korea
+- title: ATC
+  year: 2022
+  id: atc22
+  link: https://www.usenix.org/conference/atc22/
+  deadline: '2022-01-06 11:59:00'
+  abstract_deadline: '2022-01-13 11:59:00'
+  timezone: UTC
+  date: Jul 11 - Jul 13, 2021
+  place: Carlsbad, CA, USA
   sub: CA
-  
-- title: DATE
-  hindex: 24
-  year: 2021
-  id: date21
-  link: https://www.date-conference.com
-  deadline: '2020-09-21 23:59:00'
-  timezone: UTC+1
-  date: Feb 1 - Feb 5, 2021
-  place: Grenoble, France
-  sub: CAD
