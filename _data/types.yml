@@ -1,6 +1,6 @@
 ---
-- name: Computer Architecture
-  sub: CA
+- name: Computer System
+  sub: CS
   
-- name: Design Automation
-  sub: CAD
+- name: Machine Learning
+  sub: ML
