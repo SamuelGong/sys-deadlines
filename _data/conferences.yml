@@ -4,8 +4,8 @@
   year: 2022
   id: osdi22
   link: https://www.usenix.org/conference/osdi22
-  deadline: '2021-12-14 10:59:00'
-  abstract_deadline: '2021-12-07 10:59:00'
+  deadline: '2021-12-14 22:59:59'
+  abstract_deadline: '2021-12-07 22:59:59'
   timezone: UTC
   date: Jul 11 - Jul 13, 2021
   place: Carlsbad, CA, USA
@@ -15,8 +15,8 @@
   year: 2022
   id: atc22
   link: https://www.usenix.org/conference/atc22/
-  deadline: '2022-01-13 11:59:00'
-  abstract_deadline: '2022-01-06 11:59:00'
+  deadline: '2022-01-13 23:59:59'
+  abstract_deadline: '2022-01-06 23:59:59'
   timezone: UTC
   date: Jul 11 - Jul 13, 2021
   place: Carlsbad, CA, USA
