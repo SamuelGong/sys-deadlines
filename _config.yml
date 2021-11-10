@@ -1,16 +1,13 @@
-title: Computer Architecture Conference Deadlines # (Maintained by @mktrm)
-# email: mktrm@ucsd.edu
-description: Countdowns to computer architecture conference deadlines
-author: Kazem Taram
+title: Computer System Conference Deadlines # (Maintained by @samuelgong)
+# email: zjiangaj@cse.ust.hk
+description: Countdowns to computer system conference deadlines
+author: Zhifeng Jiang
 
-domain: "mktrm.github.io"
-#baseurl: "arch-deadlines"
+domain: "samuelgong.github.io"
 baseurl: ""
 
-twitter_username: mktaram
-twitter_hashtag: architecture
-github_username: mktrm
-github_repo: arch-deadlines
+github_username: samuelgong
+github_repo: sys-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
