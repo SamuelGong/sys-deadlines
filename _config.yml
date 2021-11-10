@@ -8,6 +8,8 @@ baseurl: ""
 
 github_username: samuelgong
 github_repo: sys-deadlines
+twitter_username: Zhifeng_jiang
+twitter_hashtag: system
 
 markdown: kramdown
 ga_id: UA-36274081-2
