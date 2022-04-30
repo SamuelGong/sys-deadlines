@@ -1,5 +1,17 @@
 ---
 
+
+- title: SoCC
+  year: 2022
+  id: socc2022
+  link: https://acmsocc.org/2022/index.html
+  deadline: '2022-06-17 16:59:59'
+  abstract_deadline: '2022-06-10 16:59:59'
+  timezone: UTC-4
+  date: Nov, 2021
+  place: San Francisco, CA, USA
+  sub: CS
+
 - title: CCS
   year: 2022
   id: ccs2022
