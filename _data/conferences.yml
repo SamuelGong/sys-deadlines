@@ -10,7 +10,7 @@
   date: TBD
   place: TBD
   sub: CS
-  note: Fall
+  note: Fall; Notification: Jan 19, 2023
 
 - title: EuroSys
   year: 2023
@@ -22,7 +22,7 @@
   date: May 9 - May 12, 2021
   place: Rome, Italy
   sub: CS
-  note: Fall
+  note: Fall; Notification: Jan 18, 2023
   
 - title: NSDI
   year: 2023
@@ -34,7 +34,7 @@
   date: Apr 17 - Apr 19, 2021
   place: Boston, MA, USA
   sub: CS
-  note: Fall
+  note: Fall; Notification: Dec 15, 2022
   
 - title: ASPLOS
   year: 2023
@@ -46,7 +46,7 @@
   date: TBD
   place: TBD
   sub: CS
-  note: Summer
+  note: Summer; Notification: Sept 22, 2022
 
 - title: SoCC
   year: 2022
@@ -58,6 +58,7 @@
   date: Nov, 2021
   place: San Francisco, CA, USA
   sub: CS
+  note: Notification: Sept 2, 2022
 
 - title: EuroSys
   year: 2023
@@ -69,7 +70,7 @@
   date: May 9 - May 12, 2021
   place: Rome, Italy
   sub: CS
-  note: Spring
+  note: Spring; Notification: Aug 10, 2022
 
 - title: CCS
   year: 2022
