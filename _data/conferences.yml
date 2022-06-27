@@ -48,6 +48,17 @@
   sub: CS
   note: "Summer; Notification: Sept 22, 2022"
 
+- title: NDSS
+  year: 2023
+  id: ndss23fall
+  link: https://www.ndss-symposium.org/ndss2023-call-for-papers/
+  deadline: '2022-07-29 23:59:59'
+  timezone: UTC-12
+  date: TBD
+  place: TBD
+  sub: CS,SP
+  note: "Fall; Notification: Oct 21, 2022"
+
 - title: SoCC
   year: 2022
   id: socc2022
