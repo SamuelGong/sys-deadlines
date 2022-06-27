@@ -35,18 +35,6 @@
   place: Boston, MA, USA
   sub: CS
   note: "Fall; Notification: Dec 15, 2022"
-  
-- title: ASPLOS
-  year: 2023
-  id: asplos23summer
-  link: https://asplos-conference.org/
-  deadline: '2022-7-7 17:59:59'
-  abstract_deadline: '2022-06-30 17:59:59'
-  timezone: UTC-4
-  date: TBD
-  place: TBD
-  sub: CS
-  note: "Summer; Notification: Sept 22, 2022"
 
 - title: NDSS
   year: 2023
@@ -58,6 +46,18 @@
   place: TBD
   sub: SP
   note: "Fall; Notification: Oct 21, 2022"
+
+- title: ASPLOS
+  year: 2023
+  id: asplos23summer
+  link: https://asplos-conference.org/
+  deadline: '2022-7-7 17:59:59'
+  abstract_deadline: '2022-06-30 17:59:59'
+  timezone: UTC-4
+  date: TBD
+  place: TBD
+  sub: CS
+  note: "Summer; Notification: Sept 22, 2022"
 
 - title: SoCC
   year: 2022
