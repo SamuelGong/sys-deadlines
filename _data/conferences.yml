@@ -46,6 +46,17 @@
   sub: CS
   note: "Fall; Notification: Jan 18, 2023"
   
+- title: ICDE
+  year: 2023
+  id: icde23fall
+  link: https://icde2023.ics.uci.edu/
+  deadline: '2022-10-08 23:59:59'
+  timezone: UTC-8
+  date: Apr 3 - Apr 7, 2023
+  place: Anaheim, CA, USA
+  sub: CS
+  note: "Fall; Notification: Dec 8, 2022"
+
 - title: NSDI
   year: 2023
   id: nsdi23fall
