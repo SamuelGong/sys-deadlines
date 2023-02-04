@@ -1,5 +1,16 @@
 ---
 
+- title: CCS
+  year: 2023
+  id: ccs2023b
+  link: http://www.sigsac.org/ccs/CCS2023
+  deadline: '2023-05-04 23:59:59'
+  timezone: UTC-12
+  date: Nov 26 - Nov 30, 2023
+  place: Copenhagen, Denmark
+  sub: SP
+  note: Cycle-2
+
 - title: Security
   year: 2023
   id: security2023c
