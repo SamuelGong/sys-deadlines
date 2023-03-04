@@ -10,6 +10,17 @@
   place: Copenhagen, Denmark
   sub: SP
   note: Cycle-2
+  
+- title: SOSP
+  year: 2023
+  id: sosp2023
+  link: https://sosp2023.mpi-sws.org
+  deadline: '2023-04-10 23:59:59'
+  abstract_deadline: '2023-04-17 23:59:59'
+  timezone: UTC-6
+  date: Oct 23 - Oct 26, 2023
+  place: Koblenz, Germany
+  sub: CS
 
 - title: Security
   year: 2023
