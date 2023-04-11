@@ -1,5 +1,38 @@
 ---
 
+- title: Security
+  year: 2024
+  id: security2024c
+  link: https://www.usenix.org/conference/usenixsecurity24
+  deadline: '2024-02-08 23:59:59'
+  timezone: UTC-12
+  date: Aug 14 - Aug 16, 2024
+  place: Philadelphia, PA, USA
+  sub: SP
+  note: "Winter; Notification: May 8, 2024"
+
+- title: Security
+  year: 2024
+  id: security2024b
+  link: https://www.usenix.org/conference/usenixsecurity24
+  deadline: '2023-10-17 23:59:59'
+  timezone: UTC-12
+  date: Aug 14 - Aug 16, 2024
+  place: Philadelphia, PA, USA
+  sub: SP
+  note: "Fall; Notification: Feb 1, 2024"
+
+- title: Security
+  year: 2024
+  id: security2024a
+  link: https://www.usenix.org/conference/usenixsecurity24
+  deadline: '2023-06-06 23:59:59'
+  timezone: UTC-12
+  date: Aug 14 - Aug 16, 2024
+  place: Philadelphia, PA, USA
+  sub: SP
+  note: "Summer; Notification: Sept 1, 2023"
+
 - title: NeurIPS
   year: 2023
   id: neurips
