@@ -22,6 +22,17 @@
   sub: SP
   note: "Fall; Notification: Feb 1, 2024"
 
+- title: NDSS
+  year: 2024
+  id: ndss2024b
+  link: https://www.ndss-symposium.org/ndss2024
+  deadline: '2023-06-28 23:59:59'
+  timezone: UTC-12
+  date: Feb 26 - Mar 1, 2024
+  place: San Diego, CA, USA
+  sub: SP
+  note: "Fall; Notification: Sept 13, 2023"
+
 - title: Security
   year: 2024
   id: security2024a
