@@ -2,7 +2,7 @@
 
 - title: Security
   year: 2024
-  id: security2024c
+  id: security2024winter
   link: https://www.usenix.org/conference/usenixsecurity24
   deadline: '2024-02-08 23:59:59'
   timezone: UTC-12
@@ -10,10 +10,21 @@
   place: Philadelphia, PA, USA
   sub: SP
   note: "Winter; Notification: May 8, 2024"
+  
+- title: SP
+  year: 2024
+  id: sp2024c
+  link: https://sp2024.ieee-security.org/
+  deadline: '2023-12-06 23:59:59'
+  timezone: UTC-12
+  date: May 20 - May 23, 2024
+  place: San Francisco, CA, USA
+  sub: SP
+  note: "Cycle-3; Notification: Mar 8, 2024"
 
 - title: Security
   year: 2024
-  id: security2024b
+  id: security2024fall
   link: https://www.usenix.org/conference/usenixsecurity24
   deadline: '2023-10-17 23:59:59'
   timezone: UTC-12
@@ -21,10 +32,33 @@
   place: Philadelphia, PA, USA
   sub: SP
   note: "Fall; Notification: Feb 1, 2024"
+  
+- title: NSDI
+  year: 2024
+  id: nsdi24fall
+  link: https://www.usenix.org/conference/nsdi24
+  deadline: '2023-09-14 20:59:59'
+  abstract_deadline: '2023-09-07 20:59:59'
+  timezone: UTC-7
+  date: Apr 16 - Apr 18, 2024
+  place: Santa Clara, CA, USA
+  sub: CS
+  note: "Fall; Notification: Dec 7, 2022"
+
+- title: SP
+  year: 2024
+  id: sp2024b
+  link: https://sp2024.ieee-security.org/
+  deadline: '2023-08-03 23:59:59'
+  timezone: UTC-12
+  date: May 20 - May 23, 2024
+  place: San Francisco, CA, USA
+  sub: SP
+  note: "Cycle-2; Notification: Oct 27, 2023"
 
 - title: NDSS
   year: 2024
-  id: ndss2024b
+  id: ndss2024fall
   link: https://www.ndss-symposium.org/ndss2024
   deadline: '2023-06-28 23:59:59'
   timezone: UTC-12
@@ -35,7 +69,7 @@
 
 - title: Security
   year: 2024
-  id: security2024a
+  id: security2024summer
   link: https://www.usenix.org/conference/usenixsecurity24
   deadline: '2023-06-06 23:59:59'
   timezone: UTC-12
