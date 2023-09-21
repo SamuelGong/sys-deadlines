@@ -22,6 +22,17 @@
   sub: SP
   note: "Cycle-3; Notification: Mar 8, 2024"
 
+- title: EuroSys
+  year: 2024
+  id: eurosys2024fall
+  link: https://www.eurosys.org/news/eurosys-2024
+  deadline: '2023-10-19 23:59:59'
+  timezone: UTC
+  date: Apr 23 - Apr 26, 2024
+  place: Athens, Greece
+  sub: CS
+  note: "Fall; Notification: Jan 14, 2024"
+
 - title: Security
   year: 2024
   id: security2024fall
