@@ -11,6 +11,17 @@
   sub: SP
   note: Cycle-2
 
+- title: Security
+  year: 2024
+  id: security2024winter
+  link: https://www.usenix.org/conference/usenixsecurity24
+  deadline: '2024-02-08 23:59:59'
+  timezone: UTC-12
+  date: Aug 14 - Aug 16, 2024
+  place: Philadelphia, PA, USA
+  sub: SP
+  note: "Winter; Notification: May 8, 2024"
+
 - title: CCS
   year: 2024
   id: ccs2024a
@@ -22,17 +33,6 @@
   sub: SP
   note: Cycle-1
 
-- title: Security
-  year: 2024
-  id: security2024winter
-  link: https://www.usenix.org/conference/usenixsecurity24
-  deadline: '2024-02-08 23:59:59'
-  timezone: UTC-12
-  date: Aug 14 - Aug 16, 2024
-  place: Philadelphia, PA, USA
-  sub: SP
-  note: "Winter; Notification: May 8, 2024"
-  
 - title: SP
   year: 2024
   id: sp2024c
