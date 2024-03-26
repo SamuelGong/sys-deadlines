@@ -1,5 +1,16 @@
 ---
 
+- title: EMNLP
+  year: 2024
+  id: emnlp2024
+  link: https://2024.emnlp.org/
+  deadline: '2024-06-15 23:59:00'
+  timezone: UTC-12
+  date: Nov 12 - Nov 16, 2024
+  place: Miami, FL, US
+  sub: ML
+  note: Commitment deadline: Aug 20, 2024
+
 - title: CCS
   year: 2024
   id: ccs2024b
