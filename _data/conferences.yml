@@ -1,5 +1,49 @@
 ---
 
+- title: Security
+  year: 2025
+  id: security2025two
+  link: https://www.usenix.org/conference/usenixsecurity25
+  deadline: '2025-01-22 23:59:59'
+  timezone: UTC-12
+  date: Aug 13 - Aug 15, 2025
+  place: Seattle, WA, USA
+  sub: SP
+  note: "Cycle 2; Notification: Apr 30, 2025"
+
+- title: S&P
+  year: 2025
+  id: sp2025two
+  link: https://sp2025.ieee-security.org/
+  deadline: '2024-11-14 23:59:59'
+  timezone: UTC-12
+  date: May 12 - May 15, 2025
+  place: San Francisco, CA, USA
+  sub: SP
+  note: "Cycle 2; Notification: Mar 10, 2025"
+
+- title: Security
+  year: 2025
+  id: security2025one
+  link: https://www.usenix.org/conference/usenixsecurity25
+  deadline: '2024-09-04 23:59:59'
+  timezone: UTC-12
+  date: Aug 13 - Aug 15, 2025
+  place: Seattle, WA, USA
+  sub: SP
+  note: "Cycle 1; Notification: Dec 11, 2024"
+
+- title: AAAI
+  year: 2025
+  id: aaai2025
+  link: https://aaai.org/conference/aaai/aaai-25/
+  deadline: '2024-08-15 23:59:59'
+  timezone: UTC-12
+  date: Feb 25 - Mar 4, 2025
+  place: Philadelphia, PA, USA
+  sub: ML
+  note: "Abstract Due: Aug 7, 2024; Notification: Dec 9, 2025"
+
 - title: EMNLP
   year: 2024
   id: emnlp2024
