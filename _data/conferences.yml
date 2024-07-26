@@ -22,6 +22,17 @@
   sub: SP
   note: "Cycle 2; Notification: Mar 10, 2025"
 
+  - title: ICLR
+  year: 2025
+  id: iclr2025
+  link: https://iclr.cc/Conferences/2025
+  deadline: '2024-10-02 23:59:59'
+  timezone: UTC-0
+  date: Apr 24, 2025
+  place: Singapore
+  sub: ML
+  note: "Abstract registration: Sep 27, 2024"
+
 - title: Security
   year: 2025
   id: security2025one
