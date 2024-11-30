@@ -11,6 +11,27 @@
   sub: SP
   note: "Cycle-2; Notification: Jul 1, 2025"
 
+- title: ACL
+  year: 2025
+  id: acl2025
+  link: https://2025.aclweb.org
+  deadline: '2025-02-15 23:59:00'
+  timezone: UTC-12
+  date: Jul 27 - Aug 1, 2025
+  place: Vienna, Austria
+  sub: ML
+  note: "Notification: May 15, 2025"
+
+- title: ICML
+  year: 2025
+  id: icml2025
+  link: https://icml.cc/Conferences/2025
+  deadline: '2025-01-30 23:59:00'
+  timezone: UTC-12
+  date: Jul 13 - Jul 19, 2025
+  place:  Vancouver, Canada
+  sub: ML
+
 - title: Security
   year: 2025
   id: security2025two
