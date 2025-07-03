@@ -1,5 +1,14 @@
 ---
 
+- title: ICLR
+  year: 2026
+  id: iclr2026
+  link: https://iclr.cc/Conferences/2026
+  deadline: '2025-09-24 23:59:59'
+  timezone: UTC-12
+  sub: ML
+  note: "Abstract registration: Sep 19, 2025"
+
 - title: CCS
   year: 2025
   id: ccs2025b
